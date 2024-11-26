@@ -1,3 +1,4 @@
 .env.local
 .faust
 node_modules
+.next

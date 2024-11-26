@@ -1,0 +1,38 @@
+{
+  "name": "@faustwp/app-router-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "faust dev --experimental-https",
+    "build": "faust build",
+    "generate": "faust generatePossibleTypes",
+    "stylesheet": "faust generateGlobalStylesheet",
+    "start": "faust start"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.11.10",
+    "@apollo/experimental-nextjs-app-support": "^0.8.0",
+    "@faustwp/cli": "^3.1.1",
+    "@faustwp/core": "^3.1.0",
+    "@faustwp/experimental-app-router": "link:@faustwp/experimental-app-router",
+    "graphql": "^16.9.0",
+    "next": "^15.0.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "engines": {
+    "node": ">=18",
+    "npm": ">=8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.8",
+    "@types/react": "npm:types-react@rc",
+    "@types/react-dom": "npm:types-react-dom@rc",
+    "next-secure-headers": "^2.2.0",
+    "typescript": "^5.7.2"
+  },
+  "overrides": {
+    "@types/react": "npm:types-react@rc",
+    "@types/react-dom": "npm:types-react-dom@rc"
+  }
+}

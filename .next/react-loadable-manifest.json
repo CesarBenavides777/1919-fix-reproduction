@@ -1,0 +1,8 @@
+{
+  "../ENV/faustwp/node_modules/@apollo/client-react-streaming/dist/index.cc.js -> ./SimulatePreloadedQuery.cc.js": {
+    "id": "../ENV/faustwp/node_modules/@apollo/client-react-streaming/dist/index.cc.js -> ./SimulatePreloadedQuery.cc.js",
+    "files": [
+      "static/chunks/_app-pages-browser_ENV_faustwp_node_modules_apollo_client-react-streaming_dist_SimulatePreloa-266152.js"
+    ]
+  }
+}

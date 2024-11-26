@@ -1,0 +1,79 @@
+{
+  "node": {
+    "00896979e1dff9dd506f5fd2d7896292ccf09a73d3": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FlogoutAction.js%22%2C%5B%5B%2200896979e1dff9dd506f5fd2d7896292ccf09a73d3%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%2C%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FloginAction.js%22%2C%5B%5B%2240a0552edd5ca481ac2346a6973c7675d4178be876%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/my-account/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FlogoutAction.js%22%2C%5B%5B%2200896979e1dff9dd506f5fd2d7896292ccf09a73d3%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%2C%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FloginAction.js%22%2C%5B%5B%2240a0552edd5ca481ac2346a6973c7675d4178be876%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/login/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FlogoutAction.js%22%2C%5B%5B%2200896979e1dff9dd506f5fd2d7896292ccf09a73d3%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%2C%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FloginAction.js%22%2C%5B%5B%2240a0552edd5ca481ac2346a6973c7675d4178be876%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/api/faust/[route]/route": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FlogoutAction.js%22%2C%5B%5B%2200896979e1dff9dd506f5fd2d7896292ccf09a73d3%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%2C%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FloginAction.js%22%2C%5B%5B%2240a0552edd5ca481ac2346a6973c7675d4178be876%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/[slug]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FlogoutAction.js%22%2C%5B%5B%2200896979e1dff9dd506f5fd2d7896292ccf09a73d3%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%2C%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FloginAction.js%22%2C%5B%5B%2240a0552edd5ca481ac2346a6973c7675d4178be876%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/my-account/page": "rsc",
+        "app/login/page": "rsc",
+        "app/api/faust/[route]/route": "rsc",
+        "app/[slug]/page": "rsc"
+      }
+    },
+    "40a0552edd5ca481ac2346a6973c7675d4178be876": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FlogoutAction.js%22%2C%5B%5B%2200896979e1dff9dd506f5fd2d7896292ccf09a73d3%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%2C%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FloginAction.js%22%2C%5B%5B%2240a0552edd5ca481ac2346a6973c7675d4178be876%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/my-account/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FlogoutAction.js%22%2C%5B%5B%2200896979e1dff9dd506f5fd2d7896292ccf09a73d3%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%2C%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FloginAction.js%22%2C%5B%5B%2240a0552edd5ca481ac2346a6973c7675d4178be876%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/login/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FlogoutAction.js%22%2C%5B%5B%2200896979e1dff9dd506f5fd2d7896292ccf09a73d3%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%2C%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FloginAction.js%22%2C%5B%5B%2240a0552edd5ca481ac2346a6973c7675d4178be876%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/api/faust/[route]/route": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FlogoutAction.js%22%2C%5B%5B%2200896979e1dff9dd506f5fd2d7896292ccf09a73d3%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%2C%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FloginAction.js%22%2C%5B%5B%2240a0552edd5ca481ac2346a6973c7675d4178be876%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/[slug]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FlogoutAction.js%22%2C%5B%5B%2200896979e1dff9dd506f5fd2d7896292ccf09a73d3%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%2C%5B%22%2FUsers%2FCESARMAC%2FDesktop%2FENV%2Ffaustwp%2Fpackages%2Fexperimental-app-router%2Fdist%2Fserver-actions%2FloginAction.js%22%2C%5B%5B%2240a0552edd5ca481ac2346a6973c7675d4178be876%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/my-account/page": "rsc",
+        "app/login/page": "rsc",
+        "app/api/faust/[route]/route": "rsc",
+        "app/[slug]/page": "rsc"
+      }
+    },
+    "60f368c604b6ad49b31f3a389fce10b702856dd599": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FCESARMAC%2FDesktop%2Fapp-router%2Fapp%2Flogin%2Faction.ts%22%2C%5B%5B%2260f368c604b6ad49b31f3a389fce10b702856dd599%22%2C%22loginAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "B/VAP8UkkYwLkyNl9AOuWYPcFzq4UDqjc0MO+bdon4s="
+}
